@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'www.db4free.net';
 	public $user = 'blackopsuom';
 	public $password = 'blackopsuom';
-	public $db = 'blackopz_database';
+	public $db = 'blackopsdatabase';
 	public $dbprefix = 'Admin_';
 	public $live_site = '';
 	public $secret = 'Bq3TnDBD86EwbgH3';
