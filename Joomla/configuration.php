@@ -12,7 +12,7 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysql';
-	public $host = 'http://www.db4free.net';
+	public $host = 'www.db4free.net';
 	public $user = 'blackopsuom';
 	public $password = 'blackopsuom';
 	public $db = 'blackopsdatabase';
